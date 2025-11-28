@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**HIM-coder001/HIM-coder001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m Joseph Maina a fourth-year Software Engineering student at Kisii University, passionate about web development, AI, and building interactive applications.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind   
+- **Other:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- [Educity]– Responsive university website built with React & Vite 
+- [Portfolio]– Personal portfolio showcasing projects
+
+  
+
+- 🔭 I’m currently working on ...  [Shoppy]- a full stack e-commerce website.
+
+- 🌱 I’m currently learning ... **Backend:**- Node.js, Express, MongoDB.
+
+-👯 I’m looking to collaborate on **open-source web development projects and React applications**.
+
+-📫 How to reach me: [Email](josekamaemaina2005@gmail.com) 
+
+-⚡ Fun fact: **I love turning ideas into interactive web applications and experimenting with AI in web projects!**
