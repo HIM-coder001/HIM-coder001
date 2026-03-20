@@ -4,7 +4,8 @@
 I’m Joseph Maina a fourth-year Software Engineering student at Kisii University, passionate about web development, AI, and building interactive applications.
 
 ## Skills
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind   
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
+- **Backend:** Nodejs, Express, MongoDB, mySQL
 - **Other:** Git, GitHub
 
 
