@@ -1,68 +1,74 @@
-## About Me
+ # 👋 Hi, I'm Joseph Maina
 
-I'm Joseph Maina, a Full Stack Developer and Software Engineering student at Kisii University.
+I'm a **Full Stack Developer** and Software Engineering graduate from **Kisii University**, with a strong interest in building reliable and scalable software systems.
 
 My interests include:
 
-- Backend Development
-- API Design
-- Database Systems
-- Application Architecture
-- Full Stack Development
+* Backend Development
+* API Design & Development
+* Database Systems
+* Application Architecture
+* Full Stack Development
 
 I enjoy transforming ideas into practical software solutions that solve real-world problems.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
-### Tools
+### Tools & Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### ScholarHub
+### 🛒 POS System
 
-Digital academic resource platform helping students access educational content.
+A desktop-based Point of Sale system designed for businesses such as supermarkets, retail shops, restaurants, and pharmacies.
 
-### KMTC Past Papers Hub
-
-Platform for accessing and organizing KMTC examination papers.
-
-### Imagify
-
-AI-powered image generation platform.
-
-### School Management System
-
-Complete academic management solution.
+**Focus:** Product management, inventory, sales processing, receipts, barcode scanning, and offline operation.
 
 ---
 
-## GitHub Analytics
+### 🏫 CBC-Based School Management System
+
+A school management platform designed around the **Competency-Based Curriculum (CBC)** to help schools manage academic and administrative operations.
+
+**Focus:** Student management, teachers, classes, subjects, assessments, academic records, and school administration.
+
+---
+
+### 📚 Scholar Portal
+
+A digital academic platform designed to help students access educational resources and manage their academic activities.
+
+**Focus:** Educational resources, study materials, notes, projects, and an AI-powered study assistant.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -80,7 +86,7 @@ Complete academic management solution.
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
 <div align="center">
 
